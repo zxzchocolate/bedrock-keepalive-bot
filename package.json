@@ -1,0 +1,16 @@
+{
+  "name": "bedrock-keepalive-bot",
+  "version": "1.0.0",
+  "description": "A Minecraft Bedrock keep-alive bot with a local web dashboard",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "bedrock-protocol": "latest"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "license": "MIT"
+}
